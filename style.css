@@ -216,6 +216,7 @@ header:hover{
   line-height: 40px;
   text-align: center;
   margin-bottom: 20px;
+  margin-top: 5px;
 }
 input[type="text"],
 select,
@@ -251,6 +252,7 @@ input[type="submit"]:hover {
   padding: 20px;
   box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
   margin-bottom: 20px;
+  margin-top: 0;
 }
 
 .col-25 {
